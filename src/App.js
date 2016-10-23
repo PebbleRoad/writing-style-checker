@@ -99,7 +99,7 @@ export default class App extends React.Component {
               <TableBody
                 displayRowCheckbox={false}
                 deselectOnClickaway={false}
-                stripedRows={false}
+                stripedRows={true}
                 showRowHover={true}
               >
                 {this.state.errors.map((err, idx) => {
