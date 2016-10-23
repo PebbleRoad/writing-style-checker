@@ -1,0 +1,13 @@
+@import 'grid';
+
+.site-container {
+  padding: 1rem;
+}
+
+.msg-ruleid {
+  font-weight: bold;
+
+  &:after {
+    content: " - "
+  }
+}
