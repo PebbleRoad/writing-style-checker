@@ -104,7 +104,6 @@ export default class App extends React.Component {
               >
                 {this.state.errors.map((err, idx) => {
                   let { message, location, ruleId } = err
-
                   return (
                     <TableRow key={idx}>
                       <TableRowColumn>

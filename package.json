@@ -44,6 +44,7 @@
     "material-ui": "^0.16.1",
     "no-cliches": "^0.1.0",
     "react": "^15.3.2",
+    "react-contenteditable": "^2.0.1",
     "react-dom": "^15.3.2",
     "react-tap-event-plugin": "^1.0.0",
     "retext": "^4.0.0",
